@@ -9,7 +9,7 @@ To create a plug-and-play dashboard that helps stakeholders monitor financial pe
 - Trend Analysis: Line graphs showing revenue movement over time.
 - Salesperson Table: Ranked performance with conditional formatting.
 - Smart Narrative: AI-generated commentary to summarize insights automatically.
-🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
 - Excel (for initial data prep)
