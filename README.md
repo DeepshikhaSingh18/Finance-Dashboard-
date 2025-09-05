@@ -15,6 +15,3 @@ To create a plug-and-play dashboard that helps stakeholders monitor financial pe
 - Excel (for initial data prep)
 
 
-
-Would you like me to tailor this further for a specific company or job role you're targeting? Or add a section on how this fits into your portfolio strategy?
-
