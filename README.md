@@ -14,4 +14,7 @@ To create a plug-and-play dashboard that helps stakeholders monitor financial pe
 - DAX (Data Analysis Expressions)
 - Excel (for initial data prep)
 
+### Live Project Link
+https://app.powerbi.com/groups/me/reports/af575097-2ee5-4367-839a-f1dfdecb2309/47f92eb40a31d83070c6?experience=power-bi
+
 
